@@ -1,8 +1,8 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "ClawBuckle",
+        "link": "https://www.youtube.com/@EFG1tMSZ0Z"
     },
     {
         "role": "admin",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
