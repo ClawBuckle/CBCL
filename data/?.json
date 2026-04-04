@@ -6,7 +6,7 @@
     "verifier": "?",
     "verification": "?",
     "method": "?",
-    "percentToQualify": ?,
+    "percentToQualify": "?",
     "records": [
     ]
 }
