@@ -8,11 +8,5 @@
     "method": "?",
     "percentToQualify": "?",
     "records": [
-        {
-            "user": "?",
-            "link": "https://www.youtube.com/watch?v=0OY89JtQ1WI",
-            "percent": "?",
-            "hz": "?"
-        }
     ]
 }
