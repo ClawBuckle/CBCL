@@ -8,5 +8,11 @@
     "method": "FPS: 60",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "nucleus",
+            "link": "https://www.youtube.com/watch?v=vdMZO2kNip4",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
