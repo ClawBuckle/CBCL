@@ -1,13 +1,13 @@
 {
-    "id": "Question Mark",
+    "id": "?",
     "name": "?",
-    "author": "Question Mark",
-    "creators": ["Question Mark"],
-    "verifier": "Question Mark",
-    "verification": "Question Mark",
+    "author": "?",
+    "creators": ["?"],
+    "verifier": "?",
+    "verification": "?",
     "method": "Question Mark",
-    "password": "Question Mark",
-    "percentToQualify": "Question Mark",
+    "password": "questionmark",
+    "percentToQualify": "Hello World!",
     "records": [
     ]
 }
