@@ -1,12 +1,12 @@
 {
     "id": "?",
-    "name": "?",
-    "author": "?",
-    "creators": ["?"],
-    "verifier": "?",
-    "verification": "",
-    "method": "?",
-    "percentToQualify": "?",
+    "name": "Question Mark",
+    "author": "Question Mark",
+    "creators": ["Question Mark"],
+    "verifier": "Question Mark",
+    "verification": "Question Mark",
+    "method": "Question Mark",
+    "percentToQualify": "Question Mark",
     "records": [
     ]
 }
