@@ -6,18 +6,13 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "?",
+        "link": "https://www.youtube.com/@"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
-    {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "?",
+        "link": "https://www.youtube.com/@"
     },
     {
         "role": "dev",
@@ -28,10 +23,5 @@
         "role": "dev",
         "name": "Emonadeo",
         "link": "https://www.youtube.com/@emonadeo"
-    },
-    {
-        "role": "dev",
-        "name": "ClawBuckle",
-        "link": "https://www.youtube.com/@EFG1tMSZ0Z"
     }
 ]
