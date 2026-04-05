@@ -1,12 +1,11 @@
 {
     "id": "123932957 (Game: Geometry Dash)",
     "name": "Game over buffdate",
-    "author": "NXISE",
-    "creators": [""],
-    "verifier": "NXISE",
+    "author": "LitePack",
+    "creators": ["zRacist, LitePack"],
+    "verifier": "MiRPacK19",
     "verification": "https://youtu.be/L2X9TfJvfCo",
-    "method": "60 FPS **ALTERNATING** LIST",
-    "password": "No",
+    "method": "60 fps / 1440 tps / alternating: yes (You are allowed to hack.)",
     "percentToQualify": 100,
     "records": [
     ]
