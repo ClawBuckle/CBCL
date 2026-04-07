@@ -5,7 +5,7 @@
     "creators": ["pixelfactorial"],
     "verifier": "ClawBuckle",
     "verification": "https://youtu.be/FrIpsBFy4XU",
-    "method": "ALTERNATING/SPAM/30FPS",
+    "method": "ALTERNATING/SPAM/30FPS/UNCAPPED",
     "percentToQualify": 100,
     "records": [
     ]
