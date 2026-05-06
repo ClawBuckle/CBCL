@@ -8,5 +8,11 @@
     "method": "ALTERNATING/SPAM/60FPS",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "squeeggd (ft. delgado)",
+            "link": "https://youtu.be/F75--kGZ3uw",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
