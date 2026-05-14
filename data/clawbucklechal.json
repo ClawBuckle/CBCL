@@ -9,5 +9,11 @@
     "password": "No",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "",
+            "percent": 100,
+            "hz": "300"
+        }
     ]
 }
